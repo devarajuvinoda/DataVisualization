@@ -6,8 +6,8 @@ Beginner Seaborn Tutorial -
 3) http://seaborn.pydata.org/tutorial.html
 
 # Basic Data Visualization Tools
---> https://seaborn.pydata.org/examples/index.html
---> https://python-graph-gallery.com/
+* https://seaborn.pydata.org/examples/index.html
+* https://python-graph-gallery.com/
 
 1) Box plot - https://datavizcatalogue.com/methods/box_plot.html
 2) Violin plot - https://datavizcatalogue.com/methods/violin_plot.html

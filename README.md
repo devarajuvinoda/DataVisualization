@@ -5,4 +5,6 @@ Beginner Seaborn Tutorial -
 2) https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
 
 # Basic Data Visualization Tools
-Box plot - https://datavizcatalogue.com/methods/box_plot.html
+1) Box plot - https://datavizcatalogue.com/methods/box_plot.html
+2) Violin plot - https://datavizcatalogue.com/methods/violin_plot.html
+
